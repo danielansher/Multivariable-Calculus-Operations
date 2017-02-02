@@ -1,0 +1,82 @@
+.default-color0.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, cyan;
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color1.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, red
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color2.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, blue
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color3.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, orange
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color4.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, green
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color5.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, yellow
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color6.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, purple
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color7.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, brown
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color8.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, grey
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.default-color9.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, black
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+.default-color9.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, DarkCyan
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+
+.default-color11.chart-symbol { /* hollow circle */
+    -fx-background-color: #860061, pink
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+
+
